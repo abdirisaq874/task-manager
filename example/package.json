@@ -1,0 +1,17 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo app",
+  "keywords": [
+    "myapp"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "nodemon": "^1.18.5",
+    "oracledb": "^5.3.0",
+    "yargs": "^17.4.1"
+  },
+  "author": "You",
+  "license": "MIT"
+}
