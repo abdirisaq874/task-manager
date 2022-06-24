@@ -1,0 +1,22 @@
+{
+  "name": "Demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Demo app",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "myapp"
+  ],
+  "dependencies": {
+    "express": "^4.18.1",
+    "oracledb": "^5.4.0"
+  },
+  "author": "You",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
