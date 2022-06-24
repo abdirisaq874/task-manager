@@ -1,7 +1,6 @@
 const express = require("express")
 const app = express()
 const db = require("./db/oracledb.js")
-const forecast = require('./../web-server/src/utils/forecast')
 
 
 const port =process.env.PORT || 4100
