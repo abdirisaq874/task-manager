@@ -4,7 +4,7 @@ const { query } = require('express');
 const oracledb = require('oracledb');
 
 
-oracledb.initOracleClient({libDir: '/home/ec2-user/mandeez-weather-app/instantclient_19_8'});
+oracledb.initOracleClient({libDir: '/home/ec2-user/mandeez-weather-application/instantclient_21_6'});
 
 
 
